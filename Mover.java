@@ -10,8 +10,8 @@ import java.nio.file.Paths;
 
 public class Mover
 {
-	String downloadsFolderPath = "D:/Chris/Downloads";
-	String picturesFolderPath = "D:/Chris/Pictures";
+	String downloadsFolderPath = "C:/Path/To/Downloads"; //Example "C:/Chris/Downloads"
+	String picturesFolderPath = "C:/Path/To/Pictures"; //Example "C:/Chris/Pictures"
 	String fileTypes[] =
 	{
 		".jpg", ".jpeg", ".png", ".bmp", ".tiff", ".webm", ".gif"
